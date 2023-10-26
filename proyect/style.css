@@ -1,0 +1,153 @@
+body{
+    margin: 0;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.header{
+    padding: 10px;
+    background: #1f2937;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.content-head-1{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+   
+
+}
+
+.content-head-2{
+    display: flex;
+    margin-top: 100px;
+}
+
+.content-head-2-button{
+    background: #3882f6;
+    border-radius: 10px;
+    border: 0px;
+    width: 130px;
+    height: 40px;
+    color: white;
+    text-align: center;
+    padding: 9px;
+}
+
+.main-1{
+    padding: 30px;
+    color: #1f2937;
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+}
+
+.main-content{
+    display: flex;
+    margin-top: 30px;
+}
+
+.main-content-1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin: 10px;
+}
+
+.cube{
+    width: 200px;
+    height: 200px;
+    border: 5px solid #3882f6;
+    border-radius: 20px;
+}
+
+.main-2{
+    background-color: rgb(193, 198, 221);
+    padding: 100px;
+}
+
+.text-1{
+    font-size: 50px;
+    padding: 30px;
+    color: #1f2937;
+    font-style: italic;
+}
+
+.text-2{
+    text-align: right;
+    font-size: 50px;
+    color: #1f2937;
+    font-weight: bold;
+}
+
+.main-3{
+    display: flex;
+    justify-content: center;
+    margin:  0 auto;
+    background: #0865cf;
+    width: 800px;
+    height: 100px;
+    margin-top: 40px;
+    border-radius: 10px;
+    align-items: center;
+    color: white;
+}
+
+.main-3-container{
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 1; 
+    margin: 30px;
+    justify-content: center;
+}
+
+.main-3-button{
+    border: 4px solid white;
+    background-color: #0865cf;
+    color: white;
+    height: 30px;
+    width: 100px;
+    border-radius: 10px;
+}
+
+.main-3-title{
+    margin: 0px;
+}
+
+.main-3-text{
+    margin: 0px;
+}
+
+.footer{
+    margin-top: 40px;
+    display: flex;
+    background: gray;
+    justify-content: center;
+    position: relative;
+ 
+    
+}
+
+img{
+    width: 400px;
+    height: 400px;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 16px;
+
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
